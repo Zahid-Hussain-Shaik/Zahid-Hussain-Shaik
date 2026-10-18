@@ -83,7 +83,7 @@ malicious URLs using URL-based features and model evaluation.
 **Bachelor of Technology (B.Tech)**
 Computer Science and Engineering
 
-Sri Sai Institute of Technology and Science
+Sri Sai Institute of Technology and Science | 
 Graduated: 2026
 
 ---
